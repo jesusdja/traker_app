@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "115936645320",
+    "project_id": "apptraker-506c9",
+    "storage_bucket": "apptraker-506c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115936645320:android:36409a9cef296b6b7fd5fd",
+        "android_client_info": {
+          "package_name": "com.app.traker_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "115936645320-185mgm0jg0e8s31vd7dltctkq8mkhan6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.traker_app",
+            "certificate_hash": "fe207e6aef03e8bb925ac752ff2e94a969bfdf24"
+          }
+        },
+        {
+          "client_id": "115936645320-buc2foibnodjpslaj55vfcvhkv93p8d3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_c27Swej7XKqntCGJvBY64kMCghHyjX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "115936645320-buc2foibnodjpslaj55vfcvhkv93p8d3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

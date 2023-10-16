@@ -1,0 +1,45 @@
+name: traker_app
+description: A new Flutter project.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+version: 1.0.0+2
+
+environment:
+  sdk: '>=2.18.2 <3.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+
+  #STATE
+  provider: ^6.0.5
+
+  #STYLE
+  cupertino_icons: ^1.0.2
+  google_fonts: ^4.0.3
+  flutter_launcher_icons:
+
+  #FIREBASE
+  firebase_core: ^2.9.0
+  cloud_firestore: ^4.5.0
+
+  #DATA
+  shared_preferences: ^2.0.20
+
+  #UTILS
+  fluttertoast: ^8.2.1
+  url_launcher: ^6.1.10
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter_icons:
+  android: "ic_launcher"
+  ios: true
+  image_path: "assets/img/gps-tracker.png"
+  adaptive_icon_background: "assets/img/gps-tracker.png"
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/img/
